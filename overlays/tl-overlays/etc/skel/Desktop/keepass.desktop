@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Keepass
+Comment=password manager
+GenericName=password
+Exec=keepassxc
+Type=Application
